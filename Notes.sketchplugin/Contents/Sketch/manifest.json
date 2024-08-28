@@ -4,6 +4,7 @@
   "author" : "Jason Cashdollar",
   "authorEmail" : "jason.cashdollar@gmail.com",
   "version" : "2.3",
+  "icon" : "icon.png",
   "identifier" : "com.jasoncashdollar.sketchplugins.notes",
   "appcast" : "https://api.sketchpacks.com/v1/plugins/com.jasoncashdollar.sketchplugins.notes/appcast",
   "commands" : [
